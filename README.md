@@ -28,13 +28,15 @@ Our vision is to jump-start the creation of data analytics dashboards highlighti
 We hope to utilize modern data cleaning/wrangling techniques to prepare publicly-accessible datasets for analysis, modern tools to build (and potentially host) public-facing data dashboards, and both modern/traditional statistical methods (potentially including machine learning!) in our analyses.
 
 # Keywords
-minority health, maternal health, data analysis, dashboard, health disparities, people of color, health inequity, women
+minority health, maternal health, data analysis, dashboard, health disparities, people of color, health inequity, neonate
 
 # Introduction
 Despite modern medical advancements and public health initiatives, the United States continues to perform poorly on maternal health related metrics. These poor outcomes are especially severe for minority communities. Research points to differences in hospital quality, limited access to care, and chronic diseases as reasons for these disparities. However, larger systemic inequities including structural racism, educational opportunities, and gender hierarchy likely contribute. 
 # Methods
 Insert methods here, with the two required subsections as described below:
 # Implementation
+This tool aggregates data about minority maternal health to demonstrate the complex systemic (national and community based) factors that contribute to maternal and neonatal health disparities. For now, the data is aggregated from 2019 Birth Certificate Data from the CDC accessible via WONDER (https://wonder.cdc.gov). 
+
 This section describes how the tool works and relevant technical details for implementation.
 # Operation
 This section should include the minimal system requirements needed to run the software and an overview of the workflow
