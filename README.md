@@ -1,6 +1,6 @@
 # Creating-a-data-analytics-dashboards-highlighting-minority-maternal-health-disparities
 
-## Lina Takemaru
+Lina Takemaru
 Author email address
 Author affiliation, including full address with zip code
 
