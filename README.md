@@ -1,8 +1,6 @@
 # Creating-a-data-analytics-dashboards-highlighting-minority-maternal-health-disparities
 
 Lina Takemaru
-Author email address
-Author affiliation, including full address with zip code
 
 Theresa Boyer
 tboyer3@jhmi.edu
@@ -12,12 +10,8 @@ Bobby Yang
 yangbobby50@yahoo.com, wy22@rice.edu
 
 Britney Forsyth
-Author email address
-Author affiliation, including full address with zip code
 
 Faysal Shaikh
-Author email address
-Author affiliation, including full address with zip code
 
 Khadija Wane
 khardiatouwane03@gmail.com, khardiatou-wane@pgcps.org
