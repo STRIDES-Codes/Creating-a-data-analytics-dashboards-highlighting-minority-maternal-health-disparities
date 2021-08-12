@@ -20,7 +20,8 @@ Author email address
 Author affiliation, including full address with zip code
 
 ## Khadija Wane
-khardiatouwane03@gmail.com
+khardiatouwane03@gmail.com, khardiatou-wane@pgcps.org
+Fairmont Heights High School, Landover MD 20785 
 
 # Abstract
 Our vision is to jump-start the creation of data analytics dashboards highlighting minority maternal health disparities using publicly-available data.
