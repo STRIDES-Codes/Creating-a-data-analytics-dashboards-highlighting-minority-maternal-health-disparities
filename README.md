@@ -5,8 +5,8 @@ Author email address
 Author affiliation, including full address with zip code
 
 ## Theresa Boyer
-Author email address
-Author affiliation, including full address with zip code
+tboyer3@jhmi.edu
+Johns Hopkins Bloomberg School of Public Health, Baltimore, MD, 21205
 
 ## Bobby Yang
 yangbobby50@yahoo.com, wy22@rice.edu
@@ -28,11 +28,10 @@ Our vision is to jump-start the creation of data analytics dashboards highlighti
 We hope to utilize modern data cleaning/wrangling techniques to prepare publicly-accessible datasets for analysis, modern tools to build (and potentially host) public-facing data dashboards, and both modern/traditional statistical methods (potentially including machine learning!) in our analyses.
 
 # Keywords
-Provide up to 8 keywords, comma-separated
-minority health, maternal health, data analysis, dashboard, health disparities, people of color, health inequality, women
+minority health, maternal health, data analysis, dashboard, health disparities, people of color, health inequity, women
 
 # Introduction
-Insert introduction here. This section should provide context as to why the software tool was developed and what need it addresses
+Despite modern medical advancements and public health initiatives, the United States continues to perform poorly on maternal health related metrics. These poor outcomes are especially severe for minority communities. Research points to differences in hospital quality, limited access to care, and chronic diseases as reasons for these disparities. However, larger systemic inequities including structural racism, educational opportunities, and gender hierarchy likely contribute. 
 # Methods
 Insert methods here, with the two required subsections as described below:
 # Implementation
